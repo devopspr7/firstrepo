@@ -1,3 +1,5 @@
 COPY
 CMD
+ENTRYPOINT
+diff
 
